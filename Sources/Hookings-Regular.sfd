@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1723605476
-ModificationTime: 1724129860
+ModificationTime: 1724129981
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -44,13 +44,13 @@ OS2Vendor: 'PfEd'
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,15,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: ISO8859-1
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 8
+WinInfo: 108 27 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -76,7 +76,7 @@ Grid
  2000 731.007568359 l 1024
   Named: "Cap Height"
 EndSplineSet
-BeginChars: 263 128
+BeginChars: 65543 130
 
 StartChar: I
 Encoding: 73 73 0
@@ -221,7 +221,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.257
-Encoding: 257 -1 6
+Encoding: 65536 -1 6
 Width: 663
 Flags: W
 HStem: 0 21G<40 149 514 623> 711.008 20G<40 165.63 514 623>
@@ -337,7 +337,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.258
-Encoding: 258 -1 10
+Encoding: 65537 -1 10
 Width: 407
 Flags: W
 HStem: 0 98<67 241.346> 633.008 98<151.6 258>
@@ -387,7 +387,7 @@ Kerns2: 57 -160 "'kern' Horizontal Kerning in Latin lookup 0-1" 37 -160 "'kern' 
 EndChar
 
 StartChar: .notdef
-Encoding: 256 -1 12
+Encoding: 65538 -1 12
 Width: 882
 Flags: W
 HStem: 0 98<304 578 687 750.4> 20 78<578 687> 633.008 98<131.6 195 304 578> 633.008 78<195 304>
@@ -718,7 +718,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.259
-Encoding: 259 -1 24
+Encoding: 65539 -1 24
 Width: 892
 Flags: W
 HStem: 0.0078125 20.9922G<40 149 390 499 741 852> 633.008 98<60 390 499 665.187> 633.008 48<390 499>
@@ -1690,7 +1690,7 @@ Refer: 58 46 N 1 0 0 1 0 379 2
 EndChar
 
 StartChar: NameMe.260
-Encoding: 260 -1 60
+Encoding: 65540 -1 60
 Width: 666
 Flags: W
 HStem: 0 98<291.174 619> 641.008 98<262.694 473.057>
@@ -1731,7 +1731,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.261
-Encoding: 261 -1 61
+Encoding: 65541 -1 61
 Width: 498
 Flags: W
 HStem: -0.0078125 88<197.571 441> 399.934 91<188.275 345.256>
@@ -1756,7 +1756,7 @@ EndSplineSet
 EndChar
 
 StartChar: NameMe.262
-Encoding: 262 -1 62
+Encoding: 65542 -1 62
 Width: 676
 Flags: W
 HStem: 0 98<27.3184 143.089 533.23 649> 633.008 98<25 149.715 526.603 651.318>
@@ -3356,6 +3356,62 @@ SplineSet
  347.064191595 761.001953125 425 676.350228245 425 561.068359375 c 0
  425 444.224828369 347.064191595 360.060546875 225 360.060546875 c 0
  102.935808405 360.060546875 25 444.224828369 25 561.068359375 c 0
+EndSplineSet
+EndChar
+
+StartChar: Thorn
+Encoding: 222 222 128
+Width: 602
+Flags: W
+HStem: 0 21G<40 149> 160.008 98<60 413.795> 503.008 98<60 413.795> 711.008 20G<40 149>
+VStem: 40 109<0 160.008 258.008 503.008 601.008 731.008> 60 89<160.008 258.008 503.008 601.008> 469 108<306.68 454.441>
+LayerCount: 2
+Fore
+SplineSet
+577 385.0078125 m 4xf6
+ 577 245.580098055 486.170832873 160.0078125 314 160.0078125 c 2
+ 60 160.0078125 l 1
+ 60 258.0078125 l 1
+ 297 258.0078125 l 2
+ 417.061787923 258.0078125 469 294.846597161 469 380.0078125 c 4
+ 469 465.867242133 417.061787923 503.0078125 297 503.0078125 c 2
+ 60 503.0078125 l 1
+ 60 601.0078125 l 1
+ 314 601.0078125 l 2
+ 486.170832873 601.0078125 577 518.858381886 577 385.0078125 c 4xf6
+40 0 m 1xfa
+ 40 731.0078125 l 1
+ 149 731.0078125 l 1
+ 149 0 l 1
+ 40 0 l 1xfa
+EndSplineSet
+EndChar
+
+StartChar: thorn
+Encoding: 254 254 129
+Width: 530
+Flags: W
+HStem: 0.00292969 91<70 334.886> 390.011 91<40 334.515> 731.011 20G<40 138>
+VStem: 40 98<-178.997 0.00292969 91.0029 390.011 481.011 751.011> 70 68<0.00292969 91.0029> 406 99<158.765 321.863>
+LayerCount: 2
+Fore
+SplineSet
+40 751.010742188 m 5xf4
+ 138 751.010742188 l 5
+ 138 -178.997070312 l 1
+ 40 -178.997070312 l 1
+ 40 751.010742188 l 5xf4
+255 0.0029296875 m 2
+ 70 0.0029296875 l 1
+ 70 91.0029296875 l 1xec
+ 256.16796875 91.0029296875 l 2
+ 347 91.0029296875 406 151.03125 406 240.010742188 c 0
+ 406 329.303710938 347 390.010742188 256.486328125 390.010742188 c 2
+ 40 390.010742188 l 1
+ 40 481.010742188 l 1
+ 255 481.010742188 l 2
+ 407 481.010742188 505 380.10546875 505 240.010742188 c 0
+ 505 101.665039062 408 0.00292968749998 255 0.0029296875 c 2
 EndSplineSet
 EndChar
 EndChars
