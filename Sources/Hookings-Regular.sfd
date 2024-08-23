@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1723605476
-ModificationTime: 1724433552
+ModificationTime: 1724446292
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8154 27 8
+WinInfo: 8235 27 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -76,7 +76,7 @@ Grid
  2000 731.007568359 l 1024
   Named: "Cap Height"
 EndSplineSet
-BeginChars: 65544 196
+BeginChars: 65544 198
 
 StartChar: I
 Encoding: 73 73 0
@@ -4872,6 +4872,83 @@ SplineSet
  313 202 l 5
  25 202 l 5
  25 300 l 5
+EndSplineSet
+EndChar
+
+StartChar: colonmonetary
+Encoding: 8353 8353 196
+Width: 586
+Flags: W
+HStem: 0 98<291.174 559> 633.008 98<277.18 561.318>
+VStem: 25 109<247.863 489.242>
+LayerCount: 2
+Fore
+SplineSet
+271 -90 m 1
+ 441 821.0078125 l 5
+ 528 821.0078125 l 5
+ 358 -90 l 1
+ 271 -90 l 1
+111 -90 m 1
+ 281 821.0078125 l 5
+ 368 821.0078125 l 5
+ 198 -90 l 1
+ 111 -90 l 1
+EndSplineSet
+Refer: 14 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni20B1
+Encoding: 8369 8369 197
+Width: 731
+Flags: W
+HStem: 0 21G<101 210> 250.008 98<121 461.324> 391 78<25 147 585 706> 401 68<177 555> 511 78<25 147 585 706> 511 68<177 555> 633.008 98<121 461.324>
+VStem: 101 109<0 250.008 348.008 391 401 579 589 633.008> 121 89<250.008 348.008 633.008 731.008>
+LayerCount: 2
+Fore
+SplineSet
+638 495.0078125 m 0xc280
+ 638 343.186523438 540.263671875 250.0078125 355 250.0078125 c 2
+ 121 250.0078125 l 1
+ 121 348.0078125 l 1
+ 338 348.0078125 l 2
+ 472.022460938 348.0078125 530 390.885742188 530 490.0078125 c 0
+ 530 589.828125 472.022460938 633.0078125 338 633.0078125 c 2
+ 121 633.0078125 l 1
+ 121 731.0078125 l 1
+ 355 731.0078125 l 2
+ 540.263671875 731.0078125 638 641.251953125 638 495.0078125 c 0xc280
+101 0 m 1xc3
+ 101 731.0078125 l 1xc3
+ 210 731.0078125 l 1xc280
+ 210 0 l 1
+ 101 0 l 1xc3
+25 469 m 1xe2
+ 147 469 l 1xe2
+ 177 469 l 1
+ 555 469 l 1xd2
+ 585 469 l 1
+ 706 469 l 1
+ 706 391 l 1
+ 585 391 l 1xe2
+ 555 401 l 1
+ 177 401 l 1xd2
+ 147 391 l 1
+ 25 391 l 1
+ 25 469 l 1xe2
+25 589 m 1xca
+ 147 589 l 1xca
+ 177 579 l 1
+ 555 579 l 1xc6
+ 585 589 l 1
+ 706 589 l 1
+ 706 511 l 1
+ 585 511 l 1xca
+ 555 511 l 1
+ 177 511 l 1xc6
+ 147 511 l 1
+ 25 511 l 1
+ 25 589 l 1xca
 EndSplineSet
 EndChar
 EndChars
