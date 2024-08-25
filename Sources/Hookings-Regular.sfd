@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1723605476
-ModificationTime: 1724603518
+ModificationTime: 1724603691
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -799,6 +799,7 @@ SplineSet
  737 154.5 598.27426104 -0.0078125 381 -0.0078125 c 0
  163.72573896 -0.0078125 25 154.5 25 369 c 0
 EndSplineSet
+Validated: 524293
 EndChar
 
 StartChar: B
@@ -2460,7 +2461,6 @@ SplineSet
  139 539.994140625 l 1
  50 539.994140625 l 1xa0
 EndSplineSet
-Validated: 524289
 EndChar
 
 StartChar: quotedbl
@@ -2473,7 +2473,6 @@ LayerCount: 2
 Fore
 Refer: 88 39 S 1 0 0 1 160 0 2
 Refer: 88 39 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: asciicircum
@@ -4195,50 +4194,46 @@ StartChar: quoteright
 Encoding: 8217 8217 155
 Width: 205
 Flags: W
-HStem: 519.994 80<-15 51.4325>
-VStem: 70 95<616.865 731.002>
+HStem: 539.994 80<-15 51.4325>
+VStem: 70 95<636.865 751.002>
 LayerCount: 2
 Fore
-Refer: 27 44 S 1 0 0 1 0 629 2
-Validated: 1
+Refer: 27 44 S 1 0 0 1 0 649 2
 EndChar
 
 StartChar: quoteleft
 Encoding: 8216 8216 156
 Width: 205
 Flags: W
-HStem: 651.002 80<153.567 220>
-VStem: 40 95<519.994 634.131>
+HStem: 671.002 80<153.567 220>
+VStem: 40 95<539.994 654.131>
 LayerCount: 2
 Fore
-Refer: 27 44 S -1 0 0 -1 205 621.996 2
-Validated: 1
+Refer: 27 44 S -1 0 0 -1 205 641.996 2
 EndChar
 
 StartChar: quotedblleft
 Encoding: 8220 8220 157
 Width: 415
 Flags: W
-HStem: 651.002 80<153.567 220 363.567 430>
-VStem: 40 95<519.994 634.131> 250 95<519.994 634.131>
+HStem: 671.002 80<153.567 220 363.567 430>
+VStem: 40 95<539.994 654.131> 250 95<539.994 654.131>
 LayerCount: 2
 Fore
-Refer: 27 44 S -1 0 0 -1 415 621.996 2
-Refer: 27 44 N -1 0 0 -1 205 621.996 2
-Validated: 1
+Refer: 27 44 S -1 0 0 -1 415 641.996 2
+Refer: 27 44 N -1 0 0 -1 205 641.996 2
 EndChar
 
 StartChar: quotedblright
 Encoding: 8221 8221 158
 Width: 415
 Flags: W
-HStem: 519.994 80<-15 51.4325 195 261.433>
-VStem: 70 95<616.865 731.002> 280 95<616.865 731.002>
+HStem: 539.994 80<-15 51.4325 195 261.433>
+VStem: 70 95<636.865 751.002> 280 95<636.865 751.002>
 LayerCount: 2
 Fore
-Refer: 27 44 S 1 0 0 1 210 629 2
-Refer: 27 44 N 1 0 0 1 0 629 2
-Validated: 1
+Refer: 27 44 S 1 0 0 1 210 649 2
+Refer: 27 44 N 1 0 0 1 0 649 2
 EndChar
 
 StartChar: quotedblbase
