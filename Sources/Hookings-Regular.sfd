@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1723605476
-ModificationTime: 1724628423
+ModificationTime: 1724686445
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 8
+WinInfo: 9585 27 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -76,7 +76,7 @@ Grid
  2000 731.007568359 l 1024
   Named: "Cap Height"
 EndSplineSet
-BeginChars: 65546 239
+BeginChars: 65546 243
 
 StartChar: I
 Encoding: 73 73 0
@@ -4662,11 +4662,11 @@ HStem: 202 98<25 743>
 LayerCount: 2
 Fore
 SplineSet
-25 300 m 1
+25 300 m 5
  743 300 l 5
  743 202 l 5
- 25 202 l 1
- 25 300 l 1
+ 25 202 l 5
+ 25 300 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -6279,6 +6279,72 @@ LayerCount: 2
 Fore
 Refer: 114 180 S 1 0 0 1 180 0 2
 Refer: 114 180 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2E18
+Encoding: 11800 11800 239
+Width: 517
+Flags: W
+HStem: -250 98<183.048 492> 369.199 121.801<281.462 373.538>
+VStem: 25 108<-106.399 27.4493> 266.599 121.801<384.062 476.138> 277 49<97 291> 277 99<-60.0078 291>
+LayerCount: 2
+Fore
+Refer: 161 8253 S -1 0 0 -1 517 481 2
+EndChar
+
+StartChar: uni2E3A
+Encoding: 11834 11834 240
+Width: 968
+Flags: W
+HStem: 202 98<25 943>
+LayerCount: 2
+Fore
+SplineSet
+25 300 m 1
+ 943 300 l 5
+ 943 202 l 5
+ 25 202 l 1
+ 25 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2E3B
+Encoding: 11835 11835 241
+Width: 1268
+Flags: W
+HStem: 202 98<25 1243>
+LayerCount: 2
+Fore
+SplineSet
+25 300 m 1
+ 1243 300 l 5
+ 1243 202 l 5
+ 25 202 l 1
+ 25 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: lozenge
+Encoding: 9674 9674 242
+Width: 596
+Flags: W
+HStem: 0 21G<268.144 343.484> 711.008 20G<259.281 334.549>
+LayerCount: 2
+Fore
+SplineSet
+119.168945312 360.571289062 m 1
+ 298.805664062 106.09375 l 1
+ 481.525390625 362.075195312 l 5
+ 301.600585938 628.9140625 l 1
+ 119.168945312 360.571289062 l 1
+595.692382812 361.0078125 m 1
+ 328.692382812 0 l 1
+ 268.143554688 0.0078125 l 1
+ 1 360.05859375 l 1
+ 274 731.0078125 l 1
+ 334.548828125 731 l 1
+ 595.692382812 361.0078125 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
