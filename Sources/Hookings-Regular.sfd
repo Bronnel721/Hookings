@@ -4,7 +4,7 @@ FullName: Hookings Regular
 FamilyName: Hookings
 Weight: Regular
 Copyright: Copyright (c) 2024, Zamero Type
-UComments: "2024-8-13: Created with FontForge (http://fontforge.org)"
+UComments: "2024-8-13: Created with FontForge (http://fontforge.org)+AAoACgAK-Why does this font remind me of the old Burger King branding that was before 2021?"
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1723605476
-ModificationTime: 1724765915
+ModificationTime: 1725149280
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -41,8 +41,8 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'ZAM '
-Lookup: 1 0 0 "'sinf' Scientific Inferiors lookup 0" { "'sinf' Scientific Inferiors lookup 0 subtable"  } ['sinf' ('DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript lookup 0" { "'sups' Superscript lookup 0 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "'sinf' Scientific Inferiors lookup 0" { "'sinf' Scientific Inferiors lookup 0 subtable"  } ['sinf' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 0" { "'sups' Superscript lookup 0 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,15,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
