@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1723605476
-ModificationTime: 1726102054
+ModificationTime: 1726321118
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3393,7 +3393,6 @@ LayerCount: 2
 Fore
 Refer: 163 8249 S 1 0 0 1 240 0 2
 Refer: 163 8249 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: guillemotright
@@ -3405,7 +3404,6 @@ LayerCount: 2
 Fore
 Refer: 164 8250 S 1 0 0 1 240 0 2
 Refer: 164 8250 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: AE
@@ -4399,16 +4397,15 @@ VStem: 25 264
 LayerCount: 2
 Fore
 SplineSet
-25 390 m 1
- 171 556 l 1
- 289 556 l 1
- 127.125 361 l 1
- 289 166 l 1
- 171 166 l 1
- 25 332 l 1
- 25 390 l 1
+25 278 m 5
+ 171 444 l 5
+ 289 444 l 5
+ 127.125 249 l 5
+ 289 54 l 5
+ 171 54 l 5
+ 25 220 l 5
+ 25 278 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: guilsinglright
@@ -4419,16 +4416,15 @@ VStem: 10 264
 LayerCount: 2
 Fore
 SplineSet
-274 390 m 1
- 274 332 l 1
- 128 166 l 1
- 10 166 l 1
- 171.875 361 l 1
- 10 556 l 1
- 128 556 l 1
- 274 390 l 1
+274 278 m 1
+ 274 220 l 1
+ 128 54 l 1
+ 10 54 l 1
+ 171.875 249 l 1
+ 10 444 l 1
+ 128 444 l 1
+ 274 278 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: lira
