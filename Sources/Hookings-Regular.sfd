@@ -2285,6 +2285,7 @@ SplineSet
  349 -189 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 76 -130 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
 StartChar: slash
@@ -2301,6 +2302,7 @@ SplineSet
  10 -189 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 77 -130 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
 StartChar: hyphen
