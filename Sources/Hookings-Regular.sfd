@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1723605476
-ModificationTime: 1730826457
+ModificationTime: 1730826634
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -965,29 +965,28 @@ StartChar: X
 Encoding: 88 88 31
 Width: 643
 Flags: W
-HStem: 0 21G<10 148.27 494.73 633> 711.008 20G<17 153.381 489.619 626>
-VStem: 307 29<326 416>
+HStem: 0 21G<10 148.883 494.117 633> 711.008 20G<17 154.016 488.984 626>
+VStem: 297 49<326 416>
 LayerCount: 2
 Fore
 SplineSet
 136 0 m 1
  10 0 l 1
- 243 372 l 1
+ 253 372 l 5
  17 731.0078125 l 1
  141 731.0078125 l 1
- 336 416 l 1
- 336 326 l 1
+ 346 416 l 5
+ 346 326 l 5
  136 0 l 1
-507 0 m 5
- 307 326 l 1
- 307 416 l 1
+507 0 m 1
+ 297 326 l 5
+ 297 416 l 5
  502 731.0078125 l 1
  626 731.0078125 l 1
- 400 372 l 1
+ 390 372 l 5
  633 0 l 1
- 507 0 l 5
+ 507 0 l 1
 EndSplineSet
-Validated: 5
 Substitution2: "'ss05' Style Set 5 lookup 8-1" X.ss05
 EndChar
 
